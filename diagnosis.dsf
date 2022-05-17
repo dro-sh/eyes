@@ -222,7 +222,7 @@ end;
 
 message СоздатьГлавнуюФорму to Alternativer;
   line 'set Caption to $'Система "Диагноз", МИФИ 2022$'';
-  line 'set PictureFile to $'diagnosis.bmp$'';
+  line 'set PictureFile to $'eye-cut2.bmp$'';
 
   line 'on $'Файл/Выход$' execute Выход';
 
